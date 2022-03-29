@@ -10,6 +10,10 @@ public class AddElements {
         int [] b = addElement(a, 4);
         System.out.println(Arrays.toString(b));
 
+        int [] y = {5,23,6,21};
+        int [] z = {3,23,6};
+        System.out.println(Arrays.toString(addElement(y, z)));
+
     }
 
     public static int [] addElement(int [] original, int elementToAdd){
@@ -30,7 +34,20 @@ public class AddElements {
 
     public static int [] addElement(int [] original, int [] elementsToAdd){
 
-        return null;
+        int[] newArray = new int[original.length + elementsToAdd.length];
+
+        for(int i = 0, j = 0; i < newArray.length; i++){
+
+            if(i < original.length) {
+                //added the elements from the original array in the new array
+                newArray[i] = original[i];
+            }else{
+                //added the new elements to the new array
+                newArray[i] = elementsToAdd[j++];
+            }
+        }
+
+        return newArray;
     }
 
 }

@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f614adee-3c5b-496b-b288-7247bd53990e" name="Changes" comment="day34_methods">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Programming_B26.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_methods/FixFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_methods/UsingStringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_utilities/StringUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day35_/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_methods/Convert.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6f474ba-aedf-4218-a3e0-a9fac846d803" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="26oU3x7zXj8STDaAYORbuVEPv5x" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="272RMz0kzhxgHLtkfFK8J3dCyjV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,164 +18,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunManager" selected="Application.Convert">
-    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_methods.Convert" />
-      <module name="Java_Programming_B26" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day35_methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreditScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_methods.CreditScore" />
-      <module name="Java_Programming_B26" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodsWithOthers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_methods.MethodsWithOthers" />
-      <module name="Java_Programming_B26" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_methods.NumberWords" />
-      <module name="Java_Programming_B26" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VoidVSReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_methods.VoidVSReturn" />
-      <module name="Java_Programming_B26" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Convert" />
-        <item itemvalue="Application.CreditScore" />
-        <item itemvalue="Application.MethodsWithOthers" />
-        <item itemvalue="Application.NumberWords" />
-        <item itemvalue="Application.VoidVSReturn" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f614adee-3c5b-496b-b288-7247bd53990e" name="Changes" comment="" />
-      <created>1648089236986</created>
+      <created>1648516150065</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648089236986</updated>
-      <workItem from="1648089239996" duration="23000" />
-      <workItem from="1648089338912" duration="820000" />
-      <workItem from="1648090164626" duration="1261000" />
-      <workItem from="1648140075359" duration="231000" />
-      <workItem from="1648143610764" duration="62000" />
-      <workItem from="1648163423188" duration="5607000" />
-      <workItem from="1648222773040" duration="269000" />
+      <updated>1648516150065</updated>
     </task>
-    <task id="LOCAL-00001" summary="return method">
-      <created>1648090300811</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1648090300811</updated>
-    </task>
-    <task id="LOCAL-00002" summary="day34_methods">
-      <created>1648139439770</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1648139439770</updated>
-    </task>
-    <task id="LOCAL-00003" summary="day34_methods">
-      <created>1648139597392</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1648139597392</updated>
-    </task>
-    <task id="LOCAL-00004" summary="day34_methods">
-      <created>1648139611657</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1648139611657</updated>
-    </task>
-    <task id="LOCAL-00005" summary="convert">
-      <created>1648164363348</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1648164363348</updated>
-    </task>
-    <task id="LOCAL-00006" summary="day34_methods">
-      <created>1648173506980</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1648173506980</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="return method" />
-    <MESSAGE value="convert" />
-    <MESSAGE value="day34_methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="day34_methods" />
   </component>
 </project>
