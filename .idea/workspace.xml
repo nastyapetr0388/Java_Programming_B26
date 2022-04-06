@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day39">
-      <change afterPath="$PROJECT_DIR$/src/day39_arraylist/CreateArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avengerHours/day1_04_04_2022/StringRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_arraylist/ArrayListWithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_arraylist/Caffeine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_arraylist/JobTiteles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_arraylist/shoppingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_arraylist/AddStringNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_arraylist/BadPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_arraylist/RemoveCountries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_arraylist/RemoveDuplicateNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_arraylist/RemoveLongString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_arraylist/ReverseAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_arraylist/SwitchBadPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Programming_B26.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Programming_B26.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/day22_loops/AddNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/day22_loops/Atm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/day22_loops/ChatBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/day22_loops/ColorPicker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/day22_loops/DoWhileExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/day22_loops/Letters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_loops/AddNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_loops/Atm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_loops/ChatBot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_loops/ColorPicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_loops/DoWhileExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_loops/Letters.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +60,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.CreateArrayList">
-    <configuration name="ClearMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_arraylist.ClearMethods" />
+  <component name="RunManager" selected="Application.RemoveDuplicateNumbers">
+    <configuration name="AddStringNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_arraylist.AddStringNumbers" />
       <module name="Java_Programming_B26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_arraylist.*" />
+          <option name="PATTERN" value="day41_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertArrayToList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_arraylist.ConvertArrayToList" />
+    <configuration name="RemoveCountries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_arraylist.RemoveCountries" />
       <module name="Java_Programming_B26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_arraylist.*" />
+          <option name="PATTERN" value="day41_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_arraylist.CreateArrayList" />
+    <configuration name="RemoveDuplicateNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_arraylist.RemoveDuplicateNumbers" />
       <module name="Java_Programming_B26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_arraylist.*" />
+          <option name="PATTERN" value="day41_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexOfMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_arraylist.IndexOfMethod" />
+    <configuration name="RemoveLongString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_arraylist.RemoveLongString" />
       <module name="Java_Programming_B26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_arraylist.*" />
+          <option name="PATTERN" value="day41_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_arraylist.SetMethods" />
+    <configuration name="SwitchBadPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_arraylist.SwitchBadPairs" />
       <module name="Java_Programming_B26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_arraylist.*" />
+          <option name="PATTERN" value="day41_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateArrayList" />
-        <item itemvalue="Application.ConvertArrayToList" />
-        <item itemvalue="Application.IndexOfMethod" />
-        <item itemvalue="Application.SetMethods" />
-        <item itemvalue="Application.ClearMethods" />
+        <item itemvalue="Application.RemoveDuplicateNumbers" />
+        <item itemvalue="Application.RemoveCountries" />
+        <item itemvalue="Application.RemoveLongString" />
+        <item itemvalue="Application.SwitchBadPairs" />
+        <item itemvalue="Application.AddStringNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +150,14 @@
       <workItem from="1648584028510" duration="817000" />
       <workItem from="1648606239063" duration="97000" />
       <workItem from="1648607394266" duration="5925000" />
-      <workItem from="1648687700611" duration="2849000" />
+      <workItem from="1648687700611" duration="4857000" />
+      <workItem from="1648697094171" duration="5422000" />
+      <workItem from="1648779294896" duration="31000" />
+      <workItem from="1648779449351" duration="308000" />
+      <workItem from="1648779774592" duration="564000" />
+      <workItem from="1648859618874" duration="1194000" />
+      <workItem from="1649106415873" duration="2596000" />
+      <workItem from="1649114140667" duration="10146000" />
     </task>
     <task id="LOCAL-00001" summary="upd">
       <created>1648517868091</created>
@@ -232,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648690760185</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="day39">
+      <created>1648691955193</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1648691955193</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
