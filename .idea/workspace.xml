@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day42 Custom classes">
-      <change afterPath="$PROJECT_DIR$/src/day42_custom_classes/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_custom_classes/UsingItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_custom_classes/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_custom_classes/UsingCoffee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,26 +39,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.UsingItem">
+  <component name="RunManager" selected="Application.UsingCoffee">
     <configuration name="AllPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day42_custom_classes.AllPeople" />
       <module name="Java_Programming_B26" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day42_custom_classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_arraylist.Main" />
-      <module name="Java_Programming_B26" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day41_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UsingCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_custom_classes.UsingCoffee" />
+      <module name="Java_Programming_B26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day42_custom_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UsingItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day42_custom_classes.UsingItem" />
       <module name="Java_Programming_B26" />
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsingCoffee" />
         <item itemvalue="Application.UsingItem" />
         <item itemvalue="Application.UsingAnimal" />
         <item itemvalue="Application.UsingApp" />
         <item itemvalue="Application.AllPeople" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,7 @@
       <workItem from="1649106415873" duration="2596000" />
       <workItem from="1649114140667" duration="14924000" />
       <workItem from="1649346173154" duration="789000" />
-      <workItem from="1649558937301" duration="7861000" />
+      <workItem from="1649558937301" duration="10248000" />
     </task>
     <task id="LOCAL-00001" summary="upd">
       <created>1648517868091</created>
@@ -327,7 +327,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649624516300</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="day42 Custom classes">
+      <created>1649625210057</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1649625210057</updated>
+    </task>
+    <task id="LOCAL-00029" summary="day42 Custom classes">
+      <created>1649625219419</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1649625219419</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
