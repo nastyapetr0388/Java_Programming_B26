@@ -1,4 +1,4 @@
-package DAY44_CUSTOM_CLASSES;
+package day44_custom_classes;
 
 public class Employee {
 
