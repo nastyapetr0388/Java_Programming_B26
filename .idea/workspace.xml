@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day 45 Custom classes">
-      <change afterPath="$PROJECT_DIR$/src/day46_static/AppleStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_static/BestBuy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_static/Iphone.java" afterDir="false" />
+    <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day 46 Custom classes">
+      <change afterPath="$PROJECT_DIR$/src/day46_static/CydeoStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/DAY44_CUSTOM_CLASSES/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +139,7 @@
       <workItem from="1649719971157" duration="7422000" />
       <workItem from="1649805096704" duration="29000" />
       <workItem from="1649805132221" duration="4787000" />
-      <workItem from="1649897896373" duration="2061000" />
+      <workItem from="1649897896373" duration="3190000" />
     </task>
     <task id="LOCAL-00001" summary="upd">
       <created>1648517868091</created>
@@ -417,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649897923709</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="day 46 Custom classes">
+      <created>1649900008370</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1649900008370</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,6 +446,7 @@
     <MESSAGE value="day43 Custom classes" />
     <MESSAGE value="day44 Custom classes" />
     <MESSAGE value="day 45 Custom classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 45 Custom classes" />
+    <MESSAGE value="day 46 Custom classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 46 Custom classes" />
   </component>
 </project>
