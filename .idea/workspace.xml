@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day44 Custom classes">
-      <change afterPath="$PROJECT_DIR$/src/day45_custom_classes/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_custom_classes/Store.java" afterDir="false" />
+    <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day 45 Custom classes">
+      <change afterPath="$PROJECT_DIR$/src/day46_static/AppleStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_static/BestBuy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_static/Iphone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/DAY44_CUSTOM_CLASSES/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.AppleStore">
+    <configuration name="AppleStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day46_static.AppleStore" />
+      <module name="Java_Programming_B26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day46_static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day44_custom_classes.Main" />
       <module name="Java_Programming_B26" />
@@ -92,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day44_custom_classes.UsingEmployee" />
-      <module name="Java_Programming_B26" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day44_custom_classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppleStore" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Store" />
         <item itemvalue="Application.TestChaining" />
         <item itemvalue="Application.UseSong" />
-        <item itemvalue="Application.UsingEmployee" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +142,7 @@
       <workItem from="1649719971157" duration="7422000" />
       <workItem from="1649805096704" duration="29000" />
       <workItem from="1649805132221" duration="4787000" />
+      <workItem from="1649897896373" duration="2061000" />
     </task>
     <task id="LOCAL-00001" summary="upd">
       <created>1648517868091</created>
@@ -407,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649813961515</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="day 45 Custom classes">
+      <created>1649897923709</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1649897923709</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,6 +441,7 @@
     <MESSAGE value="day42 Custom classes" />
     <MESSAGE value="day43 Custom classes" />
     <MESSAGE value="day44 Custom classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="day44 Custom classes" />
+    <MESSAGE value="day 45 Custom classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 45 Custom classes" />
   </component>
 </project>
