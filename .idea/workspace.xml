@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day 54">
-      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/creating/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/creating/Create.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/language/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/language/Spanish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/language/Translator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/language/Turkish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,7 +46,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.day54_abstraction.creating.Runner">
+  <component name="RunManager" selected="Application.Translator">
     <configuration name="CallMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day52_inheritance.hiding.CallMethods" />
       <module name="Java_Programming_B26" />
@@ -70,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_inheritance.final_example.Main" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_inheritance.hiding.Runner" />
       <module name="Java_Programming_B26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_inheritance.final_example.*" />
+          <option name="PATTERN" value="day52_inheritance.hiding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_inheritance.hiding.Runner" />
+    <configuration name="Translator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_abstraction.language.Translator" />
       <module name="Java_Programming_B26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_inheritance.hiding.*" />
+          <option name="PATTERN" value="day54_abstraction.language.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Translator" />
         <item itemvalue="Application.day54_abstraction.creating.Runner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.CallMethods" />
         <item itemvalue="Application.Game" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +150,7 @@
       <workItem from="1649897896373" duration="3551000" />
       <workItem from="1650406677394" duration="15635000" />
       <workItem from="1651101217674" duration="601000" />
-      <workItem from="1651619757884" duration="3610000" />
+      <workItem from="1651619757884" duration="4866000" />
     </task>
     <task id="LOCAL-00001" summary="upd">
       <created>1648517868091</created>
@@ -457,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651624374513</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="day 54">
+      <created>1651625782836</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1651625782836</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
