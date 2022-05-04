@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day 48">
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/final_example/FinalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/final_example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/final_example/UseFinalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/hiding/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/hiding/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/hiding/CallMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/hiding/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/hiding/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/hiding/Soccer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_inheritance/hiding/Sports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/animal/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/animal/Parrot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day49_inheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day49_inheritance/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,6 +148,8 @@
       <workItem from="1649805132221" duration="4787000" />
       <workItem from="1649897896373" duration="3551000" />
       <workItem from="1650406677394" duration="15635000" />
+      <workItem from="1651101217674" duration="601000" />
+      <workItem from="1651619757884" duration="1982000" />
     </task>
     <task id="LOCAL-00001" summary="upd">
       <created>1648517868091</created>
