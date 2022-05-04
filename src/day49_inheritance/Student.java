@@ -9,6 +9,4 @@ public class Student  extends Person{
         System.out.println(name + " is studying");
     }
 
-    //student is a Person
-    //Student is sub class
 }
