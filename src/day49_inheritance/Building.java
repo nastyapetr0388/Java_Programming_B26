@@ -8,7 +8,6 @@ public class Building {
         obj.age = 40;
         obj.favoriteHobby = "spy stuff";
         obj.talk();
-        //obj.study(); this was a method made in the child class
 
         Student obj2 = new Student();
         obj2.name = "Jorge";
@@ -17,5 +16,7 @@ public class Building {
         obj2.talk();
         obj2.funLevel = 100;
         obj2.study();
+
+
     }
 }

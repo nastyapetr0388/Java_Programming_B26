@@ -1,6 +1,6 @@
 package day49_inheritance;
 
-public class Student  extends Person{
+public class Student extends Person{
 
     int funLevel;
 

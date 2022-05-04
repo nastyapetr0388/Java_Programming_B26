@@ -6,7 +6,7 @@ public class Animal {
     int numberOfLegs;
 
     public void walk(){
-
         System.out.println(species + " is walking");
     }
+
 }
