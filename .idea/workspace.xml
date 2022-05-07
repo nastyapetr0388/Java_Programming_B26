@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day 49">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_abstraction/animal/Flyable.java" afterDir="false" />
+    <list default="true" id="15dbf899-fc0c-4c35-ac22-53b788d2929e" name="Changes" comment="day 54">
+      <change afterPath="$PROJECT_DIR$/src/day55_polymorphism/shopping/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_polymorphism/shopping/OnlineShopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_polymorphism/shopping/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_polymorphism/shopping/Shipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_polymorphism/shopping/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day55_polymorphism/shopping/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_26_22,_7_47_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_26_22__7_47_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/day49_inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_B26/day49_inheritance/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Programming_B26/day49_inheritance/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Programming_B26/day49_inheritance/Zoo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day49_inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day49_inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day49_inheritance/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day49_inheritance/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day49_inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day49_inheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day49_inheritance/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day49_inheritance/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day49_inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day49_inheritance/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day49_inheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day49_inheritance/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day49_inheritance/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day49_inheritance/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day54_abstraction/animal/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day54_abstraction/animal/Parrot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +47,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Translator">
     <configuration name="Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day49_inheritance.Building" />
@@ -161,35 +159,8 @@
       <workItem from="1649897896373" duration="3551000" />
       <workItem from="1650406677394" duration="15635000" />
       <workItem from="1651101217674" duration="601000" />
-      <workItem from="1651619757884" duration="11645000" />
-    </task>
-    <task id="LOCAL-00001" summary="upd">
-      <created>1648517868091</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1648517868091</updated>
-    </task>
-    <task id="LOCAL-00002" summary="day39">
-      <created>1648683974952</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1648683974952</updated>
-    </task>
-    <task id="LOCAL-00003" summary="up">
-      <created>1648683988253</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1648683988253</updated>
-    </task>
-    <task id="LOCAL-00004" summary="up">
-      <created>1648683999218</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1648683999218</updated>
+      <workItem from="1651619757884" duration="11860000" />
+      <workItem from="1651933803448" duration="2944000" />
     </task>
     <task id="LOCAL-00005" summary="day39">
       <created>1648684514997</created>
@@ -492,7 +463,49 @@
       <option name="project" value="LOCAL" />
       <updated>1651627108751</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="day 49">
+      <created>1651633380937</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1651633380937</updated>
+    </task>
+    <task id="LOCAL-00049" summary="day 49">
+      <created>1651633412028</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1651633412028</updated>
+    </task>
+    <task id="LOCAL-00050" summary="day 42">
+      <created>1651633450581</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1651633450582</updated>
+    </task>
+    <task id="LOCAL-00051" summary="day 52">
+      <created>1651633470013</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1651633470013</updated>
+    </task>
+    <task id="LOCAL-00052" summary="day 54">
+      <created>1651633490515</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1651633490515</updated>
+    </task>
+    <task id="LOCAL-00053" summary="day 54">
+      <created>1651633505215</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1651633505215</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,8 +531,10 @@
     <MESSAGE value="day44 Custom classes" />
     <MESSAGE value="day 45 Custom classes" />
     <MESSAGE value="day 46 Custom classes" />
-    <MESSAGE value="day 54" />
     <MESSAGE value="day 49" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 49" />
+    <MESSAGE value="day 42" />
+    <MESSAGE value="day 52" />
+    <MESSAGE value="day 54" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 54" />
   </component>
 </project>
